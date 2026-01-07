@@ -1,59 +1,59 @@
 # Kimi-Voxel
 
-Мои наработки по созданию воксельного движка на Rust с GPU-рендерингом.
+My personal project — a voxel game engine written in Rust with GPU rendering.
 
-## ⚠️ Текущее состояние
+## Current State
 
-Последняя версия может лагать из-за системы субвокселей (subvoxels). Если хотите стабильную производительность — можно отключить/убрать субвоксели в коде.
+The latest version may lag due to the subvoxel system. If you want stable performance, you can disable or remove subvoxels in the code.
 
-## 🎮 Что уже есть
+## Features
 
-- Процедурная генерация террейна с биомами
-- GPU-рендеринг вокселей через WGPU
-- Каскадные карты теней (CSM)
-- Система субвокселей (экспериментальная, вызывает лаги)
-- Аудио: шаги, прыжки, звуки размещения блоков
-- Сохранение/загрузка мира
-- Инвентарь и хотбар
+- Procedural terrain generation with biomes
+- GPU voxel rendering via WGPU
+- Cascaded shadow maps (CSM)
+- Subvoxel system (experimental, causes performance issues)
+- Audio: footsteps, jumps, block placement sounds
+- World save/load system
+- Inventory and hotbar
 
-## 🤝 Хотите помочь?
+## Want to Help?
 
-Буду рад любой помощи! Если хотите поучаствовать в разработке:
+Any help is welcome! If you want to contribute:
 
-- Форкайте репозиторий
-- Делайте свои изменения
-- Присылайте Pull Request
+- Fork the repository
+- Make your changes
+- Submit a Pull Request
 
-Особенно нужна помощь с:
-- Оптимизацией субвокселей
-- Улучшением генерации мира
-- Багфиксами
+Areas where help is especially needed:
+- Subvoxel optimization
+- World generation improvements
+- Bug fixes
 
-## 🛠️ Сборка
+## Building
 
 ```bash
 cargo build --release
 ```
 
-## 🚀 Запуск
+## Running
 
 ```bash
 cargo run --release
 ```
 
-## 🎯 Управление
+## Controls
 
-- WASD — движение
-- Пробел — прыжок
-- Мышь — осмотр
-- ЛКМ — сломать блок
-- ПКМ — поставить блок
+- WASD — movement
+- Space — jump
+- Mouse — look around
+- LMB — break block
+- RMB — place block
 
-## 📋 Требования
+## Requirements
 
 - Rust 1.70+
-- Видеокарта с поддержкой Vulkan/Metal/DX12
+- GPU with Vulkan/Metal/DX12 support
 
-## 📝 Лицензия
+## License
 
-MIT — делайте что хотите с кодом
+MIT — do whatever you want with the code
